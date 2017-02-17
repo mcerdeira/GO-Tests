@@ -1,0 +1,6 @@
+http://www.google.com
+http://www.netflix.com
+http://news.ycombinator.com
+http://facebook.com
+http://twitter.com
+http://microsoft.com
